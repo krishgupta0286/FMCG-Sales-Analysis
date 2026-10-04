@@ -78,8 +78,8 @@ The dashboard includes:
 
 ## Project Files
 
-- `SQL_Queries.sql` – SQL queries used for analysis
-- `Python_Notebook.ipynb` – Python/Pandas data preparation
+- `FMCG_SQL_ANALYSIS.sql` – SQL queries used for analysis
+- `Retail_FMCG_Projects.ipynb` – Python/Pandas data preparation
 - `Dashboard.png` – Power BI dashboard
 - `Key_Insights.png` – Key business insights
 
